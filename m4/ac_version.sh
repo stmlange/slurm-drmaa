@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VERSION=1.2.0-dev
+VERSION=2.0.0-dev
 
 case "$VERSION" in
     *-dev)
